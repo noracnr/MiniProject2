@@ -163,10 +163,10 @@ Y.Liu and al.(2019)[16] purposed a Composite Backbone Network (CBNet) for improv
 ### Recommendations
 * SimpleDet Model Zoo is kind for beginners who are interest in state-of-the-art models of object detection. First of all, it provides a lot of new algorithms. Secondly, it’s a simple framework based on MXNet Api.
 * But if users are familiar with PyTorch, I recommend them to use Detectron’s Model Zoo.
-* Similarly, The TensorFlow detection zoo fit the people who familiar with TensorFlow.
+* Similarly, The TensorFlow detection zoo fit the people who familiar with TensorFlow. 
 
 
-###Reference
+### Reference
 1. https://medium.com/technology-nineleaps/some-key-machine-learning-definitions-b524eb6cb48
 2. R.Girshick and al.（2014):[Region-based Convolutional Networks for
 Accurate Object Detection and Segmentation](http://islab.ulsan.ac.kr/files/announcement/513/rcnn_pami.pdf)
