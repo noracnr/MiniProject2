@@ -1,6 +1,6 @@
 # Models of Object Detection
 
-###Introduction
+### Introduction
 **Object Detection** is one of the most popular research fields on Machine Learning. To be specific, this is one branch of computer vision for detecting semantic objects of a certain class in images or videos. There are a lot of sub-branches of object detection such as 3D Object Detection, Real-Time Object Detection, Salient Object Detection etc. In this report, I want to introduce and analyze some state-of-the-art models in Object Detection. 
 [Oydeep Bhattacharjee](https://medium.com/technology-nineleaps/some-key-machine-learning-definitions-b524eb6cb48)[1] defined a machine learning model as a mathematical representation of a real-world process. To generate a machine learning model, you will need to provide training data to a machine learning algorithm to learn from. 
 But in my report, I understand models as algorithms, and will discuss about some classical and state-of-the-art models with some relevant pre-trained model zoos.
@@ -120,6 +120,8 @@ Path Aggregation Network (PANet) optimized FCN by improving information flow in 
 ##### [TridentNet](https://paperswithcode.com/paper/scale-aware-trident-networks-for-object)
 Different from other scale method like image pyramid and feature pyramid, Scale-aware Trident Network (Y.Li and al.2019)[14] solves the scale variation based on COCO dataset in the SimpleDet Framework. 
 Image Pyramid’s testing speed is slower, but scaling performance is pretty good. Feature Pyramid is similar to image pyramid on feature for speeding up, but the performance is not as good as image pyramid. So the writers purposed a network to solve the scale variation problem by combining the advantages of various receptive fields on different sizes’ objects.[15]
+
+![TridentNet](https://user-images.githubusercontent.com/9766409/66883640-9bd6e800-ef9c-11e9-8214-1566ecccae57.png)
 
 * Pros:
 	* solve the problem of scale variation 
