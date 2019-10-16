@@ -165,6 +165,9 @@ Y.Liu and al.(2019)[16] purposed a Composite Backbone Network (CBNet) for improv
 * But if users are familiar with PyTorch, I recommend them to use Detectron’s Model Zoo.
 * Similarly, The TensorFlow detection zoo fit the people who familiar with TensorFlow. 
 
+### Conclusion
+In this report, I review most important and classical object detection algorithms such as R-CNN, Fast R-CNN and soon.  Then, I introduce some state-of-the-art machine learning models on object detection such as PANet, TrientNet, CBNet which isn’t very popular but have pretty good performance. After that, Three Model Zoos are introduced with advantages and disadvantages.  Finally , I recommend three model zoos for different types of users.
+
 
 ### Reference
 1. https://medium.com/technology-nineleaps/some-key-machine-learning-definitions-b524eb6cb48
