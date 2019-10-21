@@ -196,3 +196,15 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 20. https://blog.csdn.net/jningwei/article/details/86607160
 21. https://ieeexplore-ieee-org.ezproxy.bu.edu/stamp/stamp.jsp?tp=&arnumber=8627998
 22. https://arleyzhang.github.io/articles/f0c1556d/
+
+
+# Summary of Group2 reports:
+
+### Topics
+* Object Detection is a topic that most members focused, including me. Object Detection is is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. In that topic, Bowen Qin introduced Tensorflow while Mengting Song and I focused on relevant algorithms.
+* Unsupervised Learning is another topic done by Thuy Pham. Unsupervised Learning is a branch of machine learning wherein algorithms/models are created to infer patterns from a dataset. Unlike with supervised learning, there is no reference to labeled/known outcomes. Instead, unsupervised learning enables discovery of the underlying structure of data. 
+
+### New thing I learned
+* I learned a lot from the unsupervised learning topic. Actually, Pham mentioned two topics- unsupervised learning and machines ethics. In the topic of first one,  She mentioned credit card fraud detection , a practical and meaningful specific case in real world in which the unsupervised learning is not so useful as supervised learning but outlier scores may play an important role in risk prediction. There is another specific case - Auto insurance fraud detection, which use unsupervised spectral ranking for anomaly (SRA) to detect auto-insurance fraud.
+* As for the machine ethics, Pham summarized a paper which recommended AI researchers will need to interface with theoretical ethicists (and vice versa),and provided an outline of six steps for building a machine that is an explict ethical agent.
+* With regard to the object detection, I learned the more technical details of CNN and R-CNN.
